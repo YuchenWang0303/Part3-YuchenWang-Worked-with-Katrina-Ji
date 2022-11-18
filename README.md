@@ -7,6 +7,10 @@ University of Pennsylvania, ESE 5190: Intro to Embedded Systems, Lab 2b
     Yuchen Wang
     wangyuchen0303@gmail.com
     Tested on:  MacBook Pro (14-inch, 2021), macOS Monterey 12.6
+    
+    Katrina Ji
+    katji@seas.upenn.edu
+    Tested on:  MacBook Pro (14-inch, 2021), macOS Monterey 12.6
 
 ## GIF of Read Data from BOOT PIN and Record
 
